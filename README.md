@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vinn145
 - 👀 I’m interested in python
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
