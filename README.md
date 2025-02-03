@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinn145
+- 👋 Hi, I’m Kevin
 - 👀 I’m interested in python
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
